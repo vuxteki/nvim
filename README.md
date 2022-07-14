@@ -7,5 +7,4 @@ echo "source $HOME/.zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> "$HO
 sudo npm cache clean -f
 sudo npm i -g n
 sudo n latest
-""Pass github""
-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
+
