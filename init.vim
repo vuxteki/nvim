@@ -295,3 +295,4 @@ let g:floaterm_keymap_toggle = '<F10>'
 " Git 
 nnoremap <silent> <leader>gl :FloatermNew! --position=bottomright --height=0.95 --width=0.7 --title='GitLog' git lg<CR>
 colorscheme gruvbox
+let g:coc_disable_startup_warning = 1
